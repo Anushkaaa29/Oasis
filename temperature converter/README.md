@@ -3,6 +3,8 @@
 A simple, responsive Temperature Converter Web App built using HTML, CSS, and JavaScript.
 It allows users to easily convert temperatures between Celsius, Fahrenheit, and Kelvin with a clean, user-friendly interface.
 
+---
+
 🚀 Features
 
 Convert between Celsius ↔ Fahrenheit ↔ Kelvin
@@ -15,6 +17,8 @@ Modern UI with frosted-glass effect and background theme (sunset sky / thermomet
 
 Fully responsive design – works on desktop, tablet, and mobile
 
+---
+
 🛠️ Tech Stack
 
 HTML5 – Structure
@@ -23,7 +27,9 @@ CSS3 – Styling (frosted glass container, responsive layout)
 
 JavaScript (ES6) – Conversion logic
 
+![Screenshot 2025-08-22 121247](https://github.com/Anushkaaa29/Oasis/blob/main/temperature%20converter/Screenshot%202025-08-30%20143804.png)
 
+---
 
 ⚙️ How It Works
 
