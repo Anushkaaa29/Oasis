@@ -1,0 +1,101 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Segoe UI", Tahoma, sans-serif;
+  line-height: 1.6;
+  background: #fff8f0;
+  color: #333;
+}
+
+/* Hero Section */
+.hero {
+  position: relative;
+  height: 60vh;
+  background: url('lata-m.avif') center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.hero .overlay {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.4);
+}
+.hero-content {
+  position: relative;
+  color: #fff;
+  z-index: 1;
+}
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+.hero p {
+  font-size: 1.2rem;
+}
+
+/* Sections */
+.section {
+  padding: 50px 20px;
+  max-width: 900px;
+  margin: auto;
+}
+.section h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #b22222;
+}
+.section ul {
+  list-style: disc inside;
+  padding-left: 10px;
+}
+.section p, .section li {
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+}
+
+/* Quote */
+.quote {
+  background: #f9e6e6;
+  padding: 40px 20px;
+  text-align: center;
+  font-style: italic;
+  font-size: 1.5rem;
+  color: #444;
+  margin: 30px 0;
+}
+
+/* Footer */
+footer {
+  background: #b22222;
+  color: #fff;
+  text-align: center;
+  padding: 15px;
+}
+
+/* Animations */
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+.fade-in.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 2rem;
+  }
+  .hero p {
+    font-size: 1rem;
+  }
+}
