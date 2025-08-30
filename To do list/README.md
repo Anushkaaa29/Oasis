@@ -31,7 +31,7 @@ JavaScript (ES6) – Functionality & DOM manipulation
 
 📸 Screenshots
 
-![Screenshot 2025-08-22 121247]()
+![Screenshot 2025-08-22 121247](https://github.com/Anushkaaa29/Oasis/blob/main/To%20do%20list/Screenshot%202025-08-29%20174226.png)
 
 ⚙️ How It Works
 
