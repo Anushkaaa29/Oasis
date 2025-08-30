@@ -43,6 +43,8 @@ Get results instantly in all three units
 
 Example:
 
-Input → 100 °C
+Input → 30 °C
 
-Output → 212 °F, 373.15 K
+Output → 30.00 °C, 86.00 °F, 303.15 K
+
+![Screenshot 2025-08-22 121247](https://github.com/Anushkaaa29/Oasis/blob/main/temperature%20converter/Screenshot%202025-08-30%20143824.png)
