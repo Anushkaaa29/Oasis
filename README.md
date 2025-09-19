@@ -3,6 +3,8 @@
 This repository contains all the tasks completed during my Web Development and Designing Internship at Oasis Infobyte.
 The internship focused on building responsive and interactive web applications using HTML, CSS, JavaScript.
 
+---
+
 🚀 Internship Overview
 
 Domain: Web Development 
@@ -12,6 +14,8 @@ Internship Provider: Oasis Infobyte
 Duration: 1 Month / 4 Weeks
 
 Mode: Virtual Internship
+
+---
 
 🛠️ Skills Gained
 
@@ -23,6 +27,7 @@ Mode: Virtual Internship
 
 ✅ Building interactive and user-friendly web applications
 
+---
 
 🔮 Future Enhancements
 
